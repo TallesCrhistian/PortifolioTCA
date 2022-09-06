@@ -26,17 +26,24 @@ h1 {
     color: red;
     opacity: 0.8;
     margin-top: 10%;
+    margin-bottom: 2%
 }
 p{
-    margin-top: 30px;
+    
     color: aliceblue;
 }
 button{
     background-color:black;
-    border-radius: 10px;
+    border-radius: 7px;
     color: red;
     margin-top: 40px;
     margin-left: 150px;
     opacity:0.9;
     width: 200px;
+    height: 35px;
+
+}
+.button_p {
+    color: brown;
+    opacity:0.9;
 }
