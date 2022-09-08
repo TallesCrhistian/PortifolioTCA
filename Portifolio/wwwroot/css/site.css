@@ -55,17 +55,39 @@ button{
     display: flex;
 }
 .text-home {
-    font-family: SimSun-ExtB;
+    font-family: Arial;
     color: crimson;
     margin-left: 40px;
     margin-right: 40px;
-    font-size: 25px;
+    font-size: 22px;
     text-decoration: none;
     font-weight: 700;
     transition: 1s;
 }
-    .text-home:hover {
+.text-home:hover {
         color: antiquewhite;
         font-size: 30px;
         left: 60%;
-    }
+
+}
+.contato {
+    font-family: Arial;
+    color: white;
+    margin: 20px;
+    font-size: 15px;
+    text-decoration: none;
+    font-weight: 700;
+    transition: 1s;
+}
+.link-contato{
+    margin-top: 20px;
+}
+.projetos {
+    font-family: Arial;
+    color: brown;
+    margin: 20px;
+    font-size: 15px;
+    text-decoration: none;
+    font-weight: 700;
+    transition: 1s;
+}
